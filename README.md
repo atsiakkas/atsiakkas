@@ -1,7 +1,10 @@
 ### Hi there 👋
 
-<!--
-**atsiakkas/atsiakkas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
+
+I am Antreas, I am currently working as an Actuarial Consultant in the exciting area of Pensions. I hold a MSc in Artificial Intelligence from the University of Edinburgh and a BSc in Actuarial Science from Heriot-Watt University in Edinburgh. 
+
+
 
 Here are some ideas to get you started:
 
