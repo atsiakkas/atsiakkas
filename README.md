@@ -6,6 +6,12 @@ I am Antreas, I am currently working as an Actuarial Consultant in the exciting 
 
 My interests extend beyond the actuarial area to topics such as :robot: machine learning, :chains: blockchain technology and :floppy_disk: big data. If you want to learn more, don't hesitate to contact me.
 
+## :books: Projects
+
+### Reinforcement Learning with Non-Conventional Value Function Approximation Methods
+
+This project constituted my MSc thesis and involved the implementation and empirical evaluation of different non-conventional value function approximation methods in the Reinforcement Learning context. The objective is to understand whether alternative methods, could offer comparative advantages compared to the (deep) neural network-based which have become the default choice in this domain. Implemented methods include Decision Tree, Support Vector Regression, k-Nearest Neighbours and Gaussian Processes -based methods.
+
 ## 💬 Contact
 
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/atsiakkas)
