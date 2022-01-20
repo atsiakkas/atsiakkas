@@ -12,7 +12,7 @@ My interests extend beyond the actuarial area to topics such as :robot: machine 
 
 This project constituted my MSc thesis and involved the implementation and empirical evaluation of different non-conventional value function approximation methods in the Reinforcement Learning context. Implemented methods include Decision Tree, Support Vector Regression, k-Nearest Neighbours and Gaussian Processes -based methods.
 
-https://github.com/uoe-agents/non_conventional_value_function_approximation
+The evaluation of each method, and their comparison with the conventional approaches, has revealed important insights on the respective strengths and weaknesses of each model. Given the importance of the results, I decided to continue working on the project, under the guidance of the Autonomous Agents Research Group at the University of Edinburgh. My code repository and experiments is now maintained on their site: https://github.com/uoe-agents/non_conventional_value_function_approximation
 
 ## 💬 Contact
 
