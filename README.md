@@ -1,10 +1,10 @@
-### Hi there 👋
+# Hi there 👋
 
-## About me
+## 😄 About me
 
 I am Antreas, I am currently working as an Actuarial Consultant in the exciting area of Pensions. I hold a MSc in Artificial Intelligence from the University of Edinburgh and a BSc in Actuarial Science from Heriot-Watt University in Edinburgh. 
 
-
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
 
 Here are some ideas to get you started:
 
