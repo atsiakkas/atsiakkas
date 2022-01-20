@@ -9,5 +9,4 @@ My interests extend beyond the actuarial area to topics such as :robot: machine 
 ## 💬 Contact
 
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/atsiakkas)
-
 [![linkedin](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/antreastsiakkas/)
