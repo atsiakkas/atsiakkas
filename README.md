@@ -10,7 +10,9 @@ My interests extend beyond the actuarial area to topics such as :robot: machine 
 
 ### Reinforcement Learning with Non-Conventional Value Function Approximation Methods
 
-This project constituted my MSc thesis and involved the implementation and empirical evaluation of different non-conventional value function approximation methods in the Reinforcement Learning context. The objective is to understand whether alternative methods, could offer comparative advantages compared to the (deep) neural network-based which have become the default choice in this domain. Implemented methods include Decision Tree, Support Vector Regression, k-Nearest Neighbours and Gaussian Processes -based methods.
+This project constituted my MSc thesis and involved the implementation and empirical evaluation of different non-conventional value function approximation methods in the Reinforcement Learning context. Implemented methods include Decision Tree, Support Vector Regression, k-Nearest Neighbours and Gaussian Processes -based methods.
+
+https://github.com/uoe-agents/non_conventional_value_function_approximation
 
 ## 💬 Contact
 
