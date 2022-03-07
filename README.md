@@ -14,6 +14,8 @@ This project constituted my MSc thesis and involved the implementation and empir
 
 The evaluation of each method, and their comparison with the conventional approaches, has revealed important insights on the respective strengths and weaknesses of each model. Given the importance of the results, I decided to continue working on the project, under the guidance of the Autonomous Agents Research Group at the University of Edinburgh. My code repository and experiments is now maintained on their site: https://github.com/uoe-agents/non_conventional_value_function_approximation
 
+**Thesis**: https://agents.inf.ed.ac.uk/blog/master-dissertations/atsiakkas_msc2021.pdf 
+
 ### COVID-19 classfication of cough audio recordings
 
 This project performs data cleansing and pre-processing of cough audio recordings and implements a convolutional neural network model for their classification on whether the individual on each audio recording had COVID-19 or not.
