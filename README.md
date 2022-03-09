@@ -1,10 +1,10 @@
-# Hi there 👋
+# Hi there 
 
-## 😄 About me
+## 👋 About me
 
 I am currently working as an Actuarial Consultant in the exciting area of Pensions. I hold a MSc in Artificial Intelligence from the University of Edinburgh and a BSc in Actuarial Science from Heriot-Watt University in Edinburgh. 
 
-My interests extend beyond the actuarial area to topics such as :robot: machine learning, :chains: blockchain technology and :floppy_disk: big data analytics. If you want to learn more, don't hesitate to contact me.
+My interests extend beyond the actuarial area to topics such as :robot: machine learning, :chains: blockchain technology and :floppy_disk: big data analytics. In particular, following my MSc thesis, I was drawn to the exciting field of reinforcement learning and I am currently looking for PhD positions in this area. If you want to learn more, don't hesitate to contact me.
 
 ## :books: Projects
 
@@ -19,6 +19,14 @@ The evaluation of each method, and their comparison with the conventional approa
 ### COVID-19 classfication of cough audio recordings
 
 This project performs data cleansing and pre-processing of cough audio recordings and implements a convolutional neural network model for their classification on whether the individual on each audio recording had COVID-19 or not.
+
+**Repository**: https://github.com/atsiakkas/covid19_cough_classification
+
+### Audio Synthesizer
+
+This project creates an audio synthesizer model able to receive a given phrase from the user and produce and play back to the user a synthesized audio pronunciation of that phrase. The implementated model splits the given phrase into diphones and pauses and uses a set of pre-recorded audio files of all english diphones to synthesize that phrase. 
+
+**Repository**: https://github.com/atsiakkas/audio_synthesizer
 
 ## 💬 Contact
 
