@@ -18,7 +18,7 @@ The evaluation of each method, and their comparison with the conventional approa
 
 ### COVID-19 classfication of cough audio recordings
 
-This project performs data cleansing and pre-processing of cough audio recordings and implements a convolutional neural network model for their classification on whether the individual on each audio recording had COVID-19 or not.
+This project performs data cleansing and pre-processing of cough audio recordings and implements a convolutional neural network model for their classification on whether the individual on each audio recording had COVID-19 or not. The CNN is based on the ResNet-50 architecture and data pre-processing steps include filtering, down-sampling, audio segmentation, standardisation, and conversion to spectrograms. 
 
 **Repository**: https://github.com/atsiakkas/covid19_cough_classification
 
