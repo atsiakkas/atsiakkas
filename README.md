@@ -18,15 +18,9 @@ The evaluation of each method, and their comparison with the conventional approa
 
 ### COVID-19 classfication of cough audio recordings
 
-This project performs data cleansing and pre-processing of cough audio recordings and implements a convolutional neural network model for their classification on whether the individual on each audio recording had COVID-19 or not. The CNN is based on the ResNet-50 architecture and data pre-processing steps include filtering, down-sampling, audio segmentation, standardisation, and conversion to spectrograms. 
+This project performs data cleansing and pre-processing of cough audio recordings and implements a convolutional neural network model for their classification on whether the individual on each audio recording had COVID-19 or not. The CNN is based on the ResNet-50 architecture and data pre-processing steps include filtering, down-sampling, audio segmentation, standardisation, and conversion to spectrograms. The crowd-sourced Coughvid and Coswara datasets were used for training and evaluating the model.
 
 **Repository**: https://github.com/atsiakkas/covid19_cough_classification
-
-### Audio Synthesizer
-
-This project creates an audio synthesizer model able to receive a given phrase from the user and produce and play back to the user a synthesized audio pronunciation of that phrase. The implementated model splits the given phrase into diphones and pauses and uses a set of pre-recorded audio files of all english diphones to synthesize that phrase. 
-
-**Repository**: https://github.com/atsiakkas/audio_synthesizer
 
 ## 💬 Contact
 
