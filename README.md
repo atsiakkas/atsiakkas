@@ -24,6 +24,15 @@ This project performs data cleansing and pre-processing of cough audio recording
 
 **Repository**: https://github.com/atsiakkas/covid19_cough_classification
 
+### Audio synthesizer
+
+This project creates an audio synthesizer model able to receive a given phrase from the user and produce and play back to the user a synthesized audio pronunciation of that phrase. The implementated model splits the given phrase into diphones and pauses and uses a set of pre-recorded audio files of all english diphones to synthesize that phrase. 
+
+## Project
+
+**Repository: https://github.com/atsiakkas/audio_synthesizer
+
+
 ## 💬 Contact
 
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/atsiakkas)
