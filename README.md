@@ -28,7 +28,7 @@ This project performs data cleansing and pre-processing of cough audio recording
 
 This project creates an audio synthesizer model able to receive a given phrase from the user and produce and play back to the user a synthesized audio pronunciation of that phrase. The implementated model splits the given phrase into diphones and pauses and uses a set of pre-recorded audio files of all english diphones to synthesize that phrase. 
 
-**Repository: https://github.com/atsiakkas/audio_synthesizer
+**Repository**: https://github.com/atsiakkas/audio_synthesizer
 
 
 ## 💬 Contact
