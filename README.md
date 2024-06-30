@@ -2,7 +2,7 @@
 
 ## 👋 About me
 
-I am currently working as an Actuarial Consultant in the exciting area of Pensions. I hold a MSc in Artificial Intelligence from the University of Edinburgh and a BSc in Actuarial Science from Heriot-Watt University in Edinburgh. 
+I am currently working as an Actuarial Model Developer in the exciting area of Pensions and I am a qualified actuary with the Institute and Faculty of Actuaries. I hold a MSc in Artificial Intelligence from the University of Edinburgh and a BSc in Actuarial Science from Heriot-Watt University in Edinburgh. 
 
 My interests extend beyond the actuarial area to topics such as :robot: machine learning, :memo: statistical science, :chains: blockchain technology and :floppy_disk: big data analytics.
 
